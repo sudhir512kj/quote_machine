@@ -1,0 +1,56 @@
+body {
+    color: #333;
+    font-family: 'Raleway', sans-serif;
+    font-weight:400;
+}
+
+.btn-twitter {
+    float:left;
+    padding:0px;
+    padding-top:8px;
+    text-align:center;
+    font-size:1.2em;
+    margin-right:5px;
+    height:50px;
+    width:100px;
+}
+
+
+.btn-tumblr {
+    float:left;
+    padding:0px;
+    padding-top:8px;
+    text-align:center;
+    font-size:1.2em;
+    margin-right:5px;
+    height:30px;
+    width:100px;
+}
+
+#new_quote {
+    height: 38px;
+    width: 100px;
+    padding: 8px;
+    float:right;
+}
+
+.blockquote-footer {
+    width: 450px;
+    height: auto;
+    clear: both;
+    padding-top: 20px;
+    font-size: 1em;
+    text-align: right;
+}
+
+.heading {
+    font-family: 'Bree Serif', serif;;
+}
+
+.card {
+    font-family: 'Manuale';
+}
+
+.card-body {
+    background-color: #FDEBD0;
+}
